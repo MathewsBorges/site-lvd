@@ -2675,6 +2675,8 @@ body {
   color: #767676;
 }
 .cid-r6zM0OLHaM .card-wrapper {
+  overflow: hidden;
+  border-radius: 10px;
   height: 100%;
   padding-bottom: 2rem;
   background: #ffffff;
@@ -2720,6 +2722,8 @@ body {
   background: #ffffff;
   box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
   transition: box-shadow 0.3s;
+  border-radius: 10px;
+  overflow: hidden;
 }
 .cid-r6zM1REnXk .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
@@ -2755,6 +2759,8 @@ body {
   color: #767676;
 }
 .cid-r6zM18eCW5 .card-wrapper {
+  overflow: hidden;
+  border-radius: 10px;
   height: 100%;
   padding-bottom: 2rem;
   background: #ffffff;
@@ -2950,7 +2956,7 @@ body {
 }
 .cid-r65mCwWazB .dropdown .dropdown-menu .dropdown-item {
   width: auto;
-  padding: 0.235em 1.5385em 0.235em 1.5385em !important;
+  padding: 0.1em 1.5385em 0.3em 1.5385em !important;
 }
 .cid-r65mCwWazB .dropdown .dropdown-menu .dropdown-item::after {
   right: 0.5rem;
@@ -9654,7 +9660,7 @@ body {
   background-image: url("../../../assets/images/loja16/img1.jpg");
 }
 .cid-r6E8hCdIcz17 {
-  background-image: url("../../../assets/images/loja17/img1.jpg");
+  background-image: url("../../../assets/images/loja18/fotos07.jpg");
 }
 
 .cid-r6E8hCU3dP {
